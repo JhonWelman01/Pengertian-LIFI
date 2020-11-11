@@ -1,5 +1,5 @@
 # LIFI(LIGHT FIDELITY)
-![Link](https://images.app.goo.gl/94qqpfptYQLesKLQ6)
+![Image](lIFI.JPEG)
 ## PENGERTIAN LIFI
 
 Li-Fi merupakan singkatan dari Light Fidelity, yakni sebuah teknologi hasil dari percobaan yang dilakukan oleh University College dan Oxford University. Teknologi jaringan nirkabel ini menggunakan cahaya sebagai media pengantar data dengan kecepatan hingga 100 Gbps. Kecepatan tersebut berkali-kali lipat lebih tinggi dibandingkan dengan Wi-Fi yang hanya menggunakan frekuensi radio konvensional dengan kecepatan tertinggi 135,7 Mbps.
